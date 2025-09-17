@@ -3,16 +3,20 @@
 [⭐️ Updraft Advance Foundry | Merkle Airdrop](https://updraft.cyfrin.io/courses/advanced-foundry/merkle-airdrop/introduction)
 
 ## 📖 About  
-This project is a collection of smart contracts that demonstrate **token mechanics, access control, and distribution patterns**.  
 
-It includes:  
-- An **ERC20-based token**  
-- A **Merkle Airdrop contract** for efficient distribution  
-- Supporting **contracts and scripts** for interaction and automation  
+Building a **Merkle Airdrop** with digital signatures.  
 
-The goal is to explore how to combine standards like **ERC20, EIP-712, and Merkle proofs** into a secure, gas-efficient system for token minting, claiming, and transfers.
+This project demonstrates how to:  
+- Construct a **token airdrop system**.  
+- Leverage **Merkle proofs** for efficient and secure eligibility verification.  
+- Implement **digital signatures** for authorized token claims by recipients.  
 
-⚠️ This is an **educational project**, and the code is adapted from course materials for learning purposes.
+The contracts include:  
+- An **ERC20 token** for distribution.  
+- A **Merkle Airdrop contract** for token claims.  
+- Supporting scripts for **automation, interaction, and testing**.  
+
+⚠️ This is an **educational project**, adapted from course materials for learning purposes.
 
 
 ## ✅ Proof of Execution  
