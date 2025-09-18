@@ -91,7 +91,7 @@ script/target/output.json
 
 Update test configuration:
 - DeployMerkleAirdrop.s.sol → set ROOT
-- MerkleAirDropTest.t.sol → set ROOT, proofOne, proofTwo
+- MerkleAirDropTest.t.sol → set, proofOne, proofTwo
 
 Then run tests:
 ```bash

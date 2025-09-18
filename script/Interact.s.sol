@@ -7,7 +7,7 @@ import {MerkleAirdrop} from "../src/MerkleAirdrop.sol";
 import {BagelToken} from "../src/BagelToken.sol";
 
 /**
- * @dev under function setChainCOnfig() -> change ROOT, proofOne, proofTwo and SIGNATURE once new merkle tree is generated
+ * @dev under function setChainCOnfig() -> change, proofOne, proofTwo and SIGNATURE once new merkle tree is generated
  * @dev once MerkleAirdrop is deployed, run "make local-hash-message-and-sign" to generate SIGNATURE - copy the result without 0x part at the beginning. Before run, make sure that you added the info to .env and source it.
  * @dev if merkle tree is changed, changes also in tests are required
  */
